@@ -1,4 +1,4 @@
-![Neurorobotics Lab Banner](..\assets\NeuroboticsLab_banner1.png)
+<img src="https://github.com/UtahNeuroroboticsLab/.github/blob/main/assets/NeuroboticsLab_banner1.png" alt="Neurorobotics Lab Banner"/>
 
 # University of Utah NeuroRobotics Lab
 
