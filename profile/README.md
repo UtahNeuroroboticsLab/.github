@@ -1,4 +1,4 @@
-<img src="https://github.com/UtahNeuroroboticsLab/.github/blob/main/assets/NeuroboticsLab_banner2.png" alt="Neurorobotics Lab Banner"/>
+<img src="https://github.com/UtahNeuroroboticsLab/.github/blob/main/assets/lab-logo-final-B.png" alt="Neurorobotics Lab Banner"/>
 
 # University of Utah NeuroRobotics Lab
 
